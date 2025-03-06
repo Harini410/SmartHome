@@ -17,8 +17,8 @@ The SmartHome project is a full-stack application that integrates a Spring Boot 
 - PostgreSQL or MySQL (optional, if using a database)
 
 ## Installation
-### Backend Setup
-1. Navigate to the backend directory:
+### Setup
+1. Navigate to the directory:
    ```sh
    cd SmartHome
    ```
@@ -32,10 +32,10 @@ The SmartHome project is a full-stack application that integrates a Spring Boot 
    ```
 
 ## Configuration
-- Modify `application.properties` in `src/main/resources/` for backend configurations.
+- Modify `application.properties` in `src/main/resources/` for configurations.
 
 ## Usage
-- The backend API runs at `http://localhost:8080`
+- The API runs at `http://localhost:8080`
 
 ## License
 This project is licensed under the MIT License.
