@@ -20,7 +20,7 @@ The SmartHome project is a full-stack application that integrates a Spring Boot 
 ### Backend Setup
 1. Navigate to the backend directory:
    ```sh
-   cd SmartHome/backend
+   cd SmartHome
    ```
 2. Build the project using Maven:
    ```sh
