@@ -1,0 +1,5 @@
+com\energy\monitor\config\DataInitializer.class
+com\energy\monitor\model\EnergyUsage.class
+com\energy\monitor\controller\EnergyController.class
+com\energy\monitor\repository\EnergyUsageRepository.class
+com\energy\monitor\EnergyMonitorApplication.class
